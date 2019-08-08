@@ -18,3 +18,10 @@ EX : 中國信託商業銀行 , 中國信託  => ['中國','信託','商業銀�
 
 Cosine Similarity :
 ![](https://i.imgur.com/jEGbGyG.png)
+
+## 工具
+
+1. Code with jupyter notebook (python 3.7)
+2. pandas
+3. jieba
+4. Math
