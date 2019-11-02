@@ -21,7 +21,10 @@ Cosine Similarity :
 
 ## 工具
 
-1. Code with jupyter notebook (python 3.7)
+1. Code with Colab (python 3.7)
 2. pandas
 3. jieba
 4. Math
+
+## Colab directory
+https://drive.google.com/drive/folders/1uK8_6DIEtarA7KD2saKGtPk5uB3iaLdM?usp=sharing
